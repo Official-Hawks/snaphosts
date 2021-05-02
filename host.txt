@@ -1,0 +1,4 @@
+api.snapchat.com
+adserver.snapads.com
+snapads.com
+app-analytics.snapchat.com
